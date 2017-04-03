@@ -3,5 +3,6 @@
 
 
 
-[Tangible](https://tangible.is/)
-[Underbelly](http://www.underbelly.is/)
+* [Tangible](https://tangible.is/)
+* [Underbelly](http://www.underbelly.is/)
+* [Pentagram](http://www.pentagram.com)
