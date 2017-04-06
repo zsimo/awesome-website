@@ -8,9 +8,9 @@
 - [Portfolios](#portfolio)
 - [Design](#design)
 
-## Companies
+### Companies
 - [Tangible](https://tangible.is/)
 - [Underbelly](http://www.underbelly.is/)
 
-## Design
+### Design
 - [Pentagram](http://www.pentagram.com)
