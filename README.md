@@ -11,6 +11,7 @@
 ### Companies
 - [Tangible](https://tangible.is/)
 - [Underbelly](http://www.underbelly.is/)
+- [Bemind](http://www.bemind.me/)
 
 ### Nerds
 - [Jon Gold](http://jon.gold)
