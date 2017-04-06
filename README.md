@@ -12,5 +12,8 @@
 - [Tangible](https://tangible.is/)
 - [Underbelly](http://www.underbelly.is/)
 
+### Nerds
+- [Jon Gold](http://jon.gold)
+
 ### Design
 - [Pentagram](http://www.pentagram.com)
