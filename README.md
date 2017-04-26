@@ -9,6 +9,7 @@
 - [Design](#design)
 
 ### Companies
+- [Zaengle](https://zaengle.com/)
 - [Tangible](https://tangible.is/)
 - [Underbelly](http://www.underbelly.is/)
 - [Bemind](http://www.bemind.me/)
