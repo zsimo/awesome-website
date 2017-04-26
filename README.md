@@ -2,7 +2,7 @@
 > A curated and opinionated list of awesome websites.
 
 ## Contents
--[Companies](#companies)
+- [Companies](#companies)
 - [CVs](#cvs)
 - [Nerds](#nerds)
 - [Portfolios](#portfolio)
