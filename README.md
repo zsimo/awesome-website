@@ -16,6 +16,7 @@
 
 ### Nerds
 1. [Jon Gold](http://jon.gold)
+https://dassur.ma
 
 ### Design
 1. [Pentagram](http://www.pentagram.com)
