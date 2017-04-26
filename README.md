@@ -9,13 +9,13 @@
 1. [Design](#design)
 
 ### Companies
-1. [Zaengle](https://zaengle.com/)
-1. [Tangible](https://tangible.is/)
-1. [Underbelly](http://www.underbelly.is/)
-1. [Bemind](http://www.bemind.me/)
+- [Zaengle](https://zaengle.com/)
+- [Tangible](https://tangible.is/)
+- [Underbelly](http://www.underbelly.is/)
+- [Bemind](http://www.bemind.me/)
 
 ### Nerds
-1. [Jon Gold](http://jon.gold)
+- [Jon Gold](http://jon.gold)
 
 ### Design
-1. [Pentagram](http://www.pentagram.com)
+- [Pentagram](http://www.pentagram.com)
