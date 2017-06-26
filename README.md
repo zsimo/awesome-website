@@ -14,6 +14,7 @@
 1. [Tangible](https://tangible.is/)
 1. [Underbelly](http://www.underbelly.is/)
 1. [Bemind](http://www.bemind.me/)
+1. [Mikamai](https://www.mikamai.com/)
 
 ### Nerds
 1. [Jon Gold](http://jon.gold)
