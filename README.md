@@ -19,6 +19,7 @@
 ### Nerds
 1. [Jon Gold](http://jon.gold)
 1. [Ives](http://ivesvh.com/)
+1. [Mathieu Henri](http://www.p01.org)
 
 ### Design
 1. [Pentagram](http://www.pentagram.com)
