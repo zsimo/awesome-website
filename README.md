@@ -17,6 +17,8 @@
 1. [Mikamai](https://www.mikamai.com/)
 1. [Fogcreek](https://www.fogcreek.com/)
 1. [Metalab](http://metalab.co/)
+1. [Extrategy](https://www.extrategy.net)
+
 
 ### Nerds
 1. [Jon Gold](http://jon.gold)
