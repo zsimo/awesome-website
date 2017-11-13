@@ -24,6 +24,7 @@
 1. [Jon Gold](http://jon.gold)
 1. [Ives](http://ivesvh.com/)
 1. [Mathieu Henri](http://www.p01.org)
+1. [Tim Holman](http://tholman.com/)
 
 ### Design
 1. [Pentagram](http://www.pentagram.com)
