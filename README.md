@@ -19,6 +19,7 @@
 1. [Metalab](http://metalab.co/)
 1. [Extrategy](https://www.extrategy.net)
 1. [Buildo](https://www.buildo.io/)
+1. [Boraso](https://www.boraso.com/)
 
 
 ### Nerds
