@@ -20,6 +20,7 @@
 1. [Extrategy](https://www.extrategy.net)
 1. [Buildo](https://www.buildo.io/)
 1. [Boraso](https://www.boraso.com/)
+1. [Empatica](https://www.empatica.com/research/science/)
 
 
 ### Nerds
