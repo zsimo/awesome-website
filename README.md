@@ -21,6 +21,7 @@
 1. [Buildo](https://www.buildo.io/)
 1. [Boraso](https://www.boraso.com/)
 1. [Empatica](https://www.empatica.com/research/science/)
+1. [Etsy](https://www.etsy.com/careers)
 
 
 ### Nerds
