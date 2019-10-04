@@ -22,6 +22,7 @@
 1. [Boraso](https://www.boraso.com/)
 1. [Empatica](https://www.empatica.com/research/science/)
 1. [Etsy](https://www.etsy.com/careers) and [Codeascraft](https://codeascraft.com/)
+1. [Linkme](https://www.linkme.it)
 
 
 ### Nerds
